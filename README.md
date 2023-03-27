@@ -64,7 +64,7 @@ The main working part was taken from [Megatron](https://github.com/eyaadh/megadl
 
 Either you could locally host or deploy on ~~[Heroku](https://heroku.com)~~ Free tier is dead.
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/atikjaz/TG-FileStreamBot)
 
 ### Host it on VPS or Locally
 
